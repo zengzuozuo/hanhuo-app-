@@ -1,0 +1,181 @@
+{
+	"status": "0",
+	"list": [
+		{
+			"id": "1020",
+			"name": "食品生鲜馆",
+			"img": "\/Images\/category\/fm_east_bonded_top_iv_fruitshop1.jpg",
+			"list": [
+				{
+					"id": "1010002",
+					"name": "糖果巧克",
+					"img": "http:\/\/images.hanhuo.me\/Images\/category\/1010002.jpg"
+				}, {
+					"id": "1010003",
+					"name": "饼干糕点",
+					"img": "http:\/\/images.hanhuo.me\/Images\/category\/1010003.jpg"
+				}, {
+					"id": "1010004",
+					"name": "休闲零食",
+					"img": "http:\/\/images.hanhuo.me\/Images\/category\/1010004.jpg"
+				}, {
+					"id": "1010005",
+					"name": "牛奶饮料",
+					"img": "http:\/\/images.hanhuo.me\/Images\/category\/1010005.jpg"
+				}, {
+					"id": "1010006",
+					"name": "冲调饮品",
+					"img": "http:\/\/images.hanhuo.me\/Images\/category\/1010006.jpg"
+				}, {
+					"id": "1010007",
+					"name": "粮油调味",
+					"img": "http:\/\/images.hanhuo.me\/Images\/category\/1010007.jpg"
+				}, {
+					"id": "1010001",
+					"name": "海鲜肉品",
+					"img": "http:\/\/images.hanhuo.me\/Images\/category\/1010001.jpg"
+				}, {
+					"id": "1010008",
+					"name": "其他",
+					"img": "http:\/\/images.hanhuo.me\/Images\/category\/1010008.jpg"
+				}
+			]
+		}, {
+			"id": "1021",
+			"name": "母婴用品馆",
+			"img": "\/Images\/category\/fm_east_bonded_top_iv_babyproducts1.jpg",
+			"list": [
+				{
+					"id": "1013001",
+					"name": "婴幼奶粉",
+					"img": "http:\/\/images.hanhuo.me\/Images\/category\/1013001.jpg"
+				}, {
+					"id": "1013002",
+					"name": "尿裤纸巾",
+					"img": "http:\/\/images.hanhuo.me\/Images\/category\/1013002.jpg"
+				}, {
+					"id": "1013003",
+					"name": "营养辅食",
+					"img": "http:\/\/images.hanhuo.me\/Images\/category\/1013003.jpg"
+				}, {
+					"id": "1013004",
+					"name": "喂养用品",
+					"img": "http:\/\/images.hanhuo.me\/Images\/category\/1013004.jpg"
+				}, {
+					"id": "1013005",
+					"name": "洗护用品",
+					"img": "http:\/\/images.hanhuo.me\/Images\/category\/1013005.jpg"
+				}, {
+					"id": "1013006",
+					"name": "寝具服饰",
+					"img": "http:\/\/images.hanhuo.me\/Images\/category\/1013006.jpg"
+				}, {
+					"id": "1013007",
+					"name": "玩具周边",
+					"img": "http:\/\/images.hanhuo.me\/Images\/category\/1013007.jpg"
+				}, {
+					"id": "1013008",
+					"name": "其他",
+					"img": "http:\/\/images.hanhuo.me\/Images\/category\/1013008.jpg"
+				}
+			]
+		}, {
+			"id": "1022",
+			"name": "全球名酒馆",
+			"img": "\/Images\/category\/fm_east_bonded_top_iv_drinkswine2.jpg",
+			"list": [
+				{
+					"id": "1012001",
+					"name": "葡萄酒",
+					"img": "http:\/\/images.hanhuo.me\/Images\/category\/1012001.jpg"
+				}, {
+					"id": "1012002",
+					"name": "洋酒",
+					"img": "http:\/\/images.hanhuo.me\/Images\/category\/1012002.jpg"
+				}, {
+					"id": "1012003",
+					"name": "啤酒",
+					"img": "http:\/\/images.hanhuo.me\/Images\/category\/1012003.jpg"
+				}, {
+					"id": "1012004",
+					"name": "白酒",
+					"img": "http:\/\/images.hanhuo.me\/Images\/category\/1012004.jpg"
+				}, {
+					"id": "1012005",
+					"name": "其他",
+					"img": "http:\/\/images.hanhuo.me\/Images\/category\/1012005.jpg"
+				}
+			]
+		}, {
+			"id": "1023",
+			"name": "日用护理馆",
+			"img": "\/Images\/category\/fm_east_bonded_top_iv_cloth1.jpg",
+			"list": [
+				{
+					"id": "1015001",
+					"name": "女性护理",
+					"img": "http:\/\/images.hanhuo.me\/Images\/category\/1015001.jpg"
+				}, {
+					"id": "1015002",
+					"name": "美容护肤",
+					"img": "http:\/\/images.hanhuo.me\/Images\/category\/1015002.jpg"
+				}, {
+					"id": "1015003",
+					"name": "口腔护理",
+					"img": "http:\/\/images.hanhuo.me\/Images\/category\/1015003.jpg"
+				}, {
+					"id": "1015004",
+					"name": "沐浴护发",
+					"img": "http:\/\/images.hanhuo.me\/Images\/category\/1015004.jpg"
+				}, {
+					"id": "1015005",
+					"name": "香水彩妆",
+					"img": "http:\/\/images.hanhuo.me\/Images\/category\/1015005.jpg"
+				}, {
+					"id": "1015006",
+					"name": "家居家纺",
+					"img": "http:\/\/images.hanhuo.me\/Images\/category\/1015006.jpg"
+				}, {
+					"id": "1015007",
+					"name": "日用电器",
+					"img": "http:\/\/images.hanhuo.me\/Images\/category\/1015007.jpg"
+				}, {
+					"id": "1015008",
+					"name": "厨卫用品",
+					"img": "http:\/\/images.hanhuo.me\/Images\/category\/1015008.jpg"
+				}
+			]
+		}, {
+			"id": "1024",
+			"name": "营养保健馆",
+			"img": "\/Images\/category\/fm_east_bonded_top_iv_nutrition1.jpg",
+			"list": [
+				{
+					"id": "1014002",
+					"name": "蜂蜜燕窝",
+					"img": "http:\/\/images.hanhuo.me\/Images\/category\/1014002.jpg"
+				}, {
+					"id": "1014003",
+					"name": "营养谷物",
+					"img": "http:\/\/images.hanhuo.me\/Images\/category\/1014003.jpg"
+				}, {
+					"id": "1014004",
+					"name": "保健护具",
+					"img": "http:\/\/images.hanhuo.me\/Images\/category\/1014004.jpg"
+				}, {
+					"id": "1014005",
+					"name": "成人奶粉",
+					"img": "http:\/\/images.hanhuo.me\/Images\/category\/1014005.jpg"
+				}, {
+					"id": "1014001",
+					"name": "保健品",
+					"img": "http:\/\/images.hanhuo.me\/Images\/category\/1014001.jpg"
+				}, {
+					"id": "1014006",
+					"name": "其他",
+					"img": "http:\/\/images.hanhuo.me\/Images\/category\/1014006.jpg"
+				}
+			]
+		}
+	]
+}

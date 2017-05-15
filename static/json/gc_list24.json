@@ -1,0 +1,65 @@
+{
+	"status": "0",
+	"list": [
+		{
+			"id": "2400",
+			"name": "爱拼团",
+			"img": "\/Images\/category\/10.png",
+			"list": [
+				{
+					"id": "240006",
+					"name": "抽奖秒杀",
+					"img": "http:\/\/images.hanhuo.me\/Images\/category\/240006.png"
+				}, {
+					"id": "240007",
+					"name": "助力购",
+					"img": "http:\/\/images.hanhuo.me\/Images\/category\/240007.png"
+				}, {
+					"id": "240008",
+					"name": "本周新品",
+					"img": "http:\/\/images.hanhuo.me\/Images\/category\/240008.png"
+				}, {
+					"id": "240009",
+					"name": "畅销热卖",
+					"img": "http:\/\/images.hanhuo.me\/Images\/category\/240009.png"
+				}, {
+					"id": "240002",
+					"name": "新鲜果蔬",
+					"img": "http:\/\/images.hanhuo.me\/Images\/category\/240002.png"
+				}, {
+					"id": "240003",
+					"name": "休闲零食",
+					"img": "http:\/\/images.hanhuo.me\/Images\/category\/240003.png"
+				}, {
+					"id": "240004",
+					"name": "日用护理",
+					"img": "http:\/\/images.hanhuo.me\/Images\/category\/240004.png"
+				}, {
+					"id": "240010",
+					"name": "卡券",
+					"img": "http:\/\/images.hanhuo.me\/Images\/category\/240010.png"
+				}, {
+					"id": "240005",
+					"name": "中影出品",
+					"img": "http:\/\/images.hanhuo.me\/Images\/category\/240005.png"
+				}, {
+					"id": "240011",
+					"name": "限时秒杀",
+					"img": "http:\/\/images.hanhuo.me\/Images\/category\/240011.png"
+				}, {
+					"id": "240012",
+					"name": "好友帮帮",
+					"img": "http:\/\/images.hanhuo.me\/Images\/category\/240012.png"
+				}, {
+					"id": "240014",
+					"name": "每日抽奖",
+					"img": "http:\/\/images.hanhuo.me\/Images\/category\/240014.png"
+				}, {
+					"id": "240015",
+					"name": "全部商品",
+					"img": "http:\/\/images.hanhuo.me\/Images\/category\/240015.png"
+				}
+			]
+		}
+	]
+}

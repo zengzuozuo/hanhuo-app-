@@ -1,0 +1,37 @@
+{
+	"status": "0",
+	"list": [
+		{
+			"id": "2501",
+			"name": "良品铺子",
+			"img": "\/Images\/category\/10.png",
+			"list": [
+				{
+					"id": "250102",
+					"name": "坚果炒货",
+					"img": "http:\/\/images.hanhuo.me\/Images\/category\/250102.png"
+				}, {
+					"id": "250105",
+					"name": "肉脯鱼干",
+					"img": "http:\/\/images.hanhuo.me\/Images\/category\/250105.png"
+				}, {
+					"id": "250104",
+					"name": "蜜饯果干",
+					"img": "http:\/\/images.hanhuo.me\/Images\/category\/250104.png"
+				}, {
+					"id": "250101",
+					"name": "糕点糖果",
+					"img": "http:\/\/images.hanhuo.me\/Images\/category\/250101.png"
+				}, {
+					"id": "250106",
+					"name": "素食山珍",
+					"img": "http:\/\/images.hanhuo.me\/Images\/category\/250106.png"
+				}, {
+					"id": "250103",
+					"name": "精品礼盒",
+					"img": "http:\/\/images.hanhuo.me\/Images\/category\/250103.png"
+				}
+			]
+		}
+	]
+}

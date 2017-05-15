@@ -1,0 +1,102 @@
+{
+	"status": "0",
+	"goodsdata": {
+		"spe": [],
+		"id": "385CBF1D-81AE-51CF-B42B-4DF6FB205381",
+		"goodsname": "【全球保税】法国 斐丽丝松露形代可可脂巧克力(巧克力制品）(500g金色璀璨型)",
+		"followflag": "0",
+		"logo": "http:\/\/images.hanhuo.me\/Images\/2015\/12\/21\/goods1450641213_small.jpg",
+		"images": [
+			"http:\/\/images.hanhuo.me\/Images\/2015\/12\/21\/goods1450641213.jpg",
+			"http:\/\/images.hanhuo.me\/Images\/2015\/12\/21\/goods1450641216.jpg"
+		],
+		"oldprice": "55.00",
+		"nowprice": "55.00",
+		"commentcount": "0",
+		"productparameters": "规格：来源地：原料：生产日期：保质期：种类：是否为有机食品：储藏方式：包装方式：配送时间：包邮地区：适用对象：自定义：",
+		"parameters": [
+				"http:\/\/images.hanhuo.me\/Images\/2015\/12\/21\/param1450641222.jpg",
+				"http:\/\/images.hanhuo.me\/Images\/2015\/12\/21\/param1450641225.jpg",
+				"http:\/\/images.hanhuo.me\/Images\/2015\/12\/21\/param1450641228.jpg",
+				"http:\/\/images.hanhuo.me\/Images\/2015\/12\/21\/param1450641231.jpg",
+				"http:\/\/images.hanhuo.me\/Images\/2015\/12\/21\/param1450641233.jpg",
+				"http:\/\/images.hanhuo.me\/Images\/2015\/12\/21\/param1450641236.jpg",
+				"http:\/\/www.hanhuo.me\/Images\/default\/bsqgoodsbottom.jpg"
+			],
+		"valuestar": "5.0",
+		"collected": "0",
+		"visitcount": "0",
+		"salescount": "17",
+		"inventory": "18",
+		"isonsale": "1",
+		"buydesc": "",
+		"exturl": "http:\/\/api.hanhuo.me\/hhindex.php?action=ClientInterface.TelecomPointsWeb&pagesource=goodsdetail&token=&pagetitle=电信积分",
+		"specdata": [],
+		"commentdata": [
+			{
+				"content": "好评！",
+				"nickname": "多宝贝",
+				"userlogo": "http:\/\/images.hanhuo.me\/Images\/default\/userlogo.png",
+				"commentid": "1ABBDC49-F06F-7AC1-675F-4B700984B739",
+				"userlevel": "0",
+				"goodsid": "385CBF1D-81AE-51CF-B42B-4DF6FB205381",
+				"submittime": "1年前"
+			}, {
+				"content": "好评！",
+				"nickname": "用户0XC62C",
+				"userlogo": "http:\/\/images.hanhuo.me\/Images\/default\/userlogo.png",
+				"commentid": "6956373A-8BB4-54E9-DC12-3472E0DA86F5",
+				"userlevel": "0",
+				"goodsid": "385CBF1D-81AE-51CF-B42B-4DF6FB205381",
+				"submittime": "1年前"
+			}, {
+				"content": "好评！",
+				"nickname": "陈涂涂",
+				"userlogo": "http:\/\/images.hanhuo.me\/StoreImg\/13986178889\/logo\/head201509110930168603.jpg",
+				"commentid": "FFC72EE6-C906-E3DD-CE0E-98C8D93FF4EE",
+				"userlevel": "0",
+				"goodsid": "385CBF1D-81AE-51CF-B42B-4DF6FB205381",
+				"submittime": "1年前"
+			}
+		],
+		"extdes": "保税直发",
+		"extdes2": "满188元包邮",
+		"ordercounts": "8",
+		"ordercounts1": "8",
+		"ordercounts2": "0",
+		"ordercounts3": "0"
+	},
+	"shopdata": {
+		"visitorcounts": "3967",
+		"fanscounts": "130",
+		"attentionedcounts": "0",
+		"praisedcounts": "0",
+		"goodscounts": "546",
+		"videocounts": "0",
+		"shopid": "D58DA5B6-D3BF-495D-80A3-E2D8FCA6C367",
+		"shopuserid": "703BA5D7-B6DF-45BA-94BF-E4E85FA0EAA0",
+		"shoplogo": "http:\/\/images.hanhuo.me\/StoreImg\/18607176391\/logo\/shoplogo1457316786.png",
+		"shopname": "全球保税商品直销中心",
+		"shoplevel": "5",
+		"shopstar": {
+			"shopstar1": "0",
+			"shopstar2": "2",
+			"shopstar3": "0",
+			"shopstar4": "0"
+		},
+		"areaflag": "0",
+		"deposit": "0",
+		"majorsell": "进口红酒、海外母婴、全球美食……",
+		"address": "武汉市东西湖大道4899号",
+		"shopkind": "4",
+		"phonenum": "02783096587",
+		"contact_phone": "02783096587",
+		"onlineserviceflag": "0",
+		"adimg": "http:\/\/images.hanhuo.meult.jpg",
+		"post_money_price": "188.00",
+		"post_money_add": "满188元包邮",
+		"describescore": 4.71,
+		"servicescore": 4.74,
+		"sendscore": 4.73
+	}
+}
